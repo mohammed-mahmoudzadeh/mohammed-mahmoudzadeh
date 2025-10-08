@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I’m Mohammed Mahmoudzadeh
 
-<!--
-**mohammed-mahmoudzadeh/mohammed-mahmoudzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated software developer with deep expertise in Python, Django, Docker, PostgreSQL, Bootstrap, and TailwindCSS. My work focuses on building robust, scalable, and maintainable web applications, with a strong commitment to modern software engineering principles.
 
-Here are some ideas to get you started:
+**Cybersecurity is at the core of my development philosophy**—I continuously integrate best security practices and stay updated with the latest advancements to ensure the safety and resilience of every project I work on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Passionate about secure coding and proactive in identifying potential vulnerabilities.
+- 💡 Skilled in advanced Python techniques and efficient backend architecture design.
+- 🚀 Experienced in containerizing applications with Docker for streamlined deployment and scalability.
+- 💾 Proficient in designing and optimizing databases with PostgreSQL.
+- 🎨 Adept at crafting responsive and modern user interfaces using Bootstrap and TailwindCSS.
+- 🤖 Actively expanding my knowledge in artificial intelligence and its integration into real-world applications.
+- 📈 Lifelong learner dedicated to continuous technical growth and excellence.
+
+Let’s connect—I’m always open to new challenges and collaborations, especially those that value security and innovation!
