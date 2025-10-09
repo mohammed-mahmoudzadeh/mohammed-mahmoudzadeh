@@ -13,3 +13,6 @@ I am a dedicated software developer with deep expertise in Python, Django, Docke
 - 📈 Lifelong learner dedicated to continuous technical growth and excellence.
 
 Let’s connect—I’m always open to new challenges and collaborations, especially those that value security and innovation!
+
+![Resume Page 1](Screenshot_20251009-163925_Xodo.jpg)
+[Download My Resume](MohammedMahmoudzadehResume.pdf)
