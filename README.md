@@ -14,7 +14,6 @@ I'm passionate about building scalable web applications, exploring deep aspects 
 - 🎨 Frontend styling using **Tailwind CSS** & **Bootstrap**  
 - 🔐 Learning **Ethical Hacking** and **Cybersecurity**  
 - 🧩 Interested in **AI**, **automation**, and **system design**  
-- 📘 Writing a book on **Advanced Python Tricks for Developers**  
 
 ---
 
